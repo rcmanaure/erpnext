@@ -1,5 +1,5 @@
 app_name = "erpnext"
-app_title = "ERPNext"
+app_title = "DreamWork"
 app_publisher = "Frappe Technologies Pvt. Ltd."
 app_description = """ERP made simple"""
 app_icon = "fa fa-th"
@@ -457,7 +457,7 @@ default_mail_footer = """
 	<span>
 		Sent via
 		<a class="text-muted" href="https://erpnext.com?source=via_email_footer" target="_blank">
-			ERPNext
+			DreamWork
 		</a>
 	</span>
 """
@@ -578,7 +578,7 @@ user_privacy_documents = [
 	},
 ]
 
-# ERPNext doctypes for Global Search
+# DreamWork doctypes for Global Search
 global_search_doctypes = {
 	"Default": [
 		{"doctype": "Customer", "index": 0},

@@ -8,7 +8,7 @@ pip install frappe-bench
 bench -v init frappe-bench --skip-assets --skip-redis-config-generation --python "$(which python)"
 cd ./frappe-bench || exit
 
-echo "Get ERPNext..."
+echo "Get DreamWork..."
 bench get-app --skip-assets erpnext "${GITHUB_WORKSPACE}"
 
 echo "Generating POT file..."
