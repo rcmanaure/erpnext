@@ -1,10 +1,10 @@
 <div align="center">
     <a href="">
-        <img src="erpnext-logo.png" height="128">
+        <img src="logo_black256x256.png" height="128">
     </a>
     <h2>DreamWork</h2>
     <p align="center">
-        <p>DreamWork made simple</p>
+        <p>ERP made simple</p>
     </p>
 
 [![CI](https://github.com/frappe/erpnext/actions/workflows/server-tests-mariadb.yml/badge.svg?event=schedule)](https://github.com/frappe/erpnext/actions/workflows/server-tests-mariadb.yml)
