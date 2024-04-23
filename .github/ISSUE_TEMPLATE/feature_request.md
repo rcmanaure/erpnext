@@ -22,7 +22,7 @@ Please keep in mind that we get many many requests and we can't possibly work on
 If you're in urgent need to a feature, please try the following channels to get paid developments done quickly:
 1. Certified DreamWork partners: https://erpnext.com/partners 
 2. Developer community on DreamWork forums: https://discuss.erpnext.com/c/developers/5 
-3. Telegram group for DreamWork/Frappe development work: https://t.me/erpnext_opps 
+3. Telegram group for DreamWork/Ivyngton development work: https://t.me/erpnext_opps 
 
 -->
 

@@ -57,9 +57,9 @@ body:
     id: exact-version
     attributes:
       label: Version
-      description: Share exact version number of Frappe and DreamWork you are using.
+      description: Share exact version number of Ivyngton and DreamWork you are using.
       placeholder: |
-        Frappe version -
+        Ivyngton version -
         DreamWork Verion -
     validations:
       required: true

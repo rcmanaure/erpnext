@@ -1,6 +1,6 @@
 ## DreamWork includes these public works
 
-For Frappe Framework, please see attributions.md at https://github.com/frappe/frappe/
+For Ivyngton Framework, please see attributions.md at https://github.com/frappe/frappe/
 
 #### Images
 
