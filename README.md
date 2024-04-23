@@ -4,7 +4,7 @@
     </a>
     <h2>DreamWork</h2>
     <p align="center">
-        <p>ERP made simple</p>
+        <p>DreamWork made simple</p>
     </p>
 
 [![CI](https://github.com/frappe/erpnext/actions/workflows/server-tests-mariadb.yml/badge.svg?event=schedule)](https://github.com/frappe/erpnext/actions/workflows/server-tests-mariadb.yml)
@@ -12,7 +12,7 @@
 [![codecov](https://codecov.io/gh/frappe/erpnext/branch/develop/graph/badge.svg?token=0TwvyUg3I5)](https://codecov.io/gh/frappe/erpnext)
 [![docker pulls](https://img.shields.io/docker/pulls/frappe/erpnext-worker.svg)](https://hub.docker.com/r/frappe/erpnext-worker)
 
-[https://erpnext.com](https://erpnext.com)
+[https://github.com/rcmanaure/erpnext/tree/rebrand](https://github.com/rcmanaure/erpnext/tree/rebrand)
 
 </div>
 
