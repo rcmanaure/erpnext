@@ -16,7 +16,7 @@
 
 </div>
 
-ERPNext as a monolith includes the following areas for managing businesses:
+DreamWork as a monolith includes the following areas for managing businesses:
 
 1. [Accounting](https://erpnext.com/open-source-accounting)
 1. [Warehouse Management](https://erpnext.com/distribution/warehouse-management-system)
@@ -30,10 +30,10 @@ ERPNext as a monolith includes the following areas for managing businesses:
 1. [Quality Management](https://erpnext.com/docs/user/manual/en/quality-management)
 1. [Manufacturing](https://erpnext.com/open-source-manufacturing-erp-software)
 1. [Website Management](https://erpnext.com/open-source-website-builder-software)
-1. [Customize ERPNext](https://erpnext.com/docs/user/manual/en/customize-erpnext)
+1. [Customize DreamWork](https://erpnext.com/docs/user/manual/en/customize-erpnext)
 1. [And More](https://erpnext.com/docs/user/manual/en/)
 
-ERPNext is built on the [Frappe Framework](https://github.com/frappe/frappe), a full-stack web app framework built with Python & JavaScript.
+DreamWork is built on the [Ivyngton Framework](https://github.com/frappe/frappe), a full-stack web app framework built with Python & JavaScript.
 
 ## Installation
 
@@ -50,20 +50,20 @@ ERPNext is built on the [Frappe Framework](https://github.com/frappe/frappe), a 
 
 ### Containerized Installation
 
-Use docker to deploy ERPNext in production or for development of [Frappe](https://github.com/frappe/frappe) apps. See https://github.com/frappe/frappe_docker for more details.
+Use docker to deploy DreamWork in production or for development of [Ivyngton](https://github.com/frappe/frappe) apps. See https://github.com/frappe/frappe_docker for more details.
 
 ### Manual Install
 
 The Easy Way: our install script for bench will install all dependencies (e.g. MariaDB). See https://github.com/frappe/bench for more details.
 
-New passwords will be created for the ERPNext "Administrator" user, the MariaDB root user, and the frappe user (the script displays the passwords and saves them to ~/frappe_passwords.txt).
+New passwords will be created for the DreamWork "Administrator" user, the MariaDB root user, and the frappe user (the script displays the passwords and saves them to ~/frappe_passwords.txt).
 
 
 ## Learning and community
 
-1. [Frappe School](https://frappe.school) - Learn Frappe Framework and ERPNext from the various courses by the maintainers or from the community.
-2. [Official documentation](https://docs.erpnext.com/) - Extensive documentation for ERPNext.
-3. [Discussion Forum](https://discuss.erpnext.com/) - Engage with community of ERPNext users and service providers.
+1. [Ivyngton School](https://frappe.school) - Learn Ivyngton Framework and DreamWork from the various courses by the maintainers or from the community.
+2. [Official documentation](https://docs.erpnext.com/) - Extensive documentation for DreamWork.
+3. [Discussion Forum](https://discuss.erpnext.com/) - Engage with community of DreamWork users and service providers.
 4. [Telegram Group](https://erpnext_public.t.me) - Get instant help from huge community of users.
 
 
@@ -77,9 +77,9 @@ New passwords will be created for the ERPNext "Administrator" user, the MariaDB 
 
 GNU/General Public License (see [license.txt](license.txt))
 
-The ERPNext code is licensed as GNU General Public License (v3) and the Documentation is licensed as Creative Commons (CC-BY-SA-3.0) and the copyright is owned by Frappe Technologies Pvt Ltd (Frappe) and Contributors.
+The DreamWork code is licensed as GNU General Public License (v3) and the Documentation is licensed as Creative Commons (CC-BY-SA-3.0) and the copyright is owned by Ivyngton Technologies Pvt Ltd (Ivyngton) and Contributors.
 
-By contributing to ERPNext, you agree that your contributions will be licensed under its GNU General Public License (v3).
+By contributing to DreamWork, you agree that your contributions will be licensed under its GNU General Public License (v3).
 
 ## Logo and Trademark Policy
 
