@@ -34,7 +34,7 @@ DreamWork as a monolith includes the following areas for managing businesses:
 1. [And More](https://erpnext.com/docs/user/manual/en/)
 
 DreamWork is built on the [Frappe Framework](https://github.com/frappe/frappe), a full-stack web app framework built with Python & JavaScript.
-
+<!-- 
 ## Installation
 
 <div align="center" style="max-height: 40px;">
@@ -83,4 +83,4 @@ By contributing to DreamWork, you agree that your contributions will be licensed
 
 ## Logo and Trademark Policy
 
-Please read our [Logo and Trademark Policy](TRADEMARK_POLICY.md).
+Please read our [Logo and Trademark Policy](TRADEMARK_POLICY.md). -->
