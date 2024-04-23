@@ -33,7 +33,7 @@ DreamWork as a monolith includes the following areas for managing businesses:
 1. [Customize DreamWork](https://erpnext.com/docs/user/manual/en/customize-erpnext)
 1. [And More](https://erpnext.com/docs/user/manual/en/)
 
-DreamWork is built on the [Ivyngton Framework](https://github.com/frappe/frappe), a full-stack web app framework built with Python & JavaScript.
+DreamWork is built on the [Frappe Framework](https://github.com/frappe/frappe), a full-stack web app framework built with Python & JavaScript.
 
 ## Installation
 
@@ -50,7 +50,7 @@ DreamWork is built on the [Ivyngton Framework](https://github.com/frappe/frappe)
 
 ### Containerized Installation
 
-Use docker to deploy DreamWork in production or for development of [Ivyngton](https://github.com/frappe/frappe) apps. See https://github.com/frappe/frappe_docker for more details.
+Use docker to deploy DreamWork in production or for development of [Frappe](https://github.com/frappe/frappe) apps. See https://github.com/frappe/frappe_docker for more details.
 
 ### Manual Install
 
@@ -61,7 +61,7 @@ New passwords will be created for the DreamWork "Administrator" user, the MariaD
 
 ## Learning and community
 
-1. [Ivyngton School](https://frappe.school) - Learn Ivyngton Framework and DreamWork from the various courses by the maintainers or from the community.
+1. [Frappe School](https://frappe.school) - Learn Frappe Framework and DreamWork from the various courses by the maintainers or from the community.
 2. [Official documentation](https://docs.erpnext.com/) - Extensive documentation for DreamWork.
 3. [Discussion Forum](https://discuss.erpnext.com/) - Engage with community of DreamWork users and service providers.
 4. [Telegram Group](https://erpnext_public.t.me) - Get instant help from huge community of users.
@@ -77,7 +77,7 @@ New passwords will be created for the DreamWork "Administrator" user, the MariaD
 
 GNU/General Public License (see [license.txt](license.txt))
 
-The DreamWork code is licensed as GNU General Public License (v3) and the Documentation is licensed as Creative Commons (CC-BY-SA-3.0) and the copyright is owned by Ivyngton Technologies Pvt Ltd (Ivyngton) and Contributors.
+The DreamWork code is licensed as GNU General Public License (v3) and the Documentation is licensed as Creative Commons (CC-BY-SA-3.0) and the copyright is owned by Frappe Technologies Pvt Ltd (Frappe) and Contributors.
 
 By contributing to DreamWork, you agree that your contributions will be licensed under its GNU General Public License (v3).
 
