@@ -71,7 +71,7 @@ New passwords will be created for the DreamWork "Administrator" user, the MariaD
 
 1. [Issue Guidelines](https://github.com/frappe/erpnext/wiki/Issue-Guidelines)
 1. [Report Security Vulnerabilities](https://erpnext.com/security)
-1. [Pull Request Requirements](https://github.com/frappe/erpnext/wiki/Contribution-Guidelines)
+1. [Pull Request Requirements](https://github.com/frappe/erpnext/wiki/Contribution-Guidelines)-->
 
 ## License
 
@@ -83,4 +83,4 @@ By contributing to DreamWork, you agree that your contributions will be licensed
 
 ## Logo and Trademark Policy
 
-Please read our [Logo and Trademark Policy](TRADEMARK_POLICY.md). -->
+Please read our [Logo and Trademark Policy](TRADEMARK_POLICY.md). 
