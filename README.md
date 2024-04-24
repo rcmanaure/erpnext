@@ -33,7 +33,7 @@ DreamWork as a monolith includes the following areas for managing businesses:
 1. [Customize DreamWork](https://erpnext.com/docs/user/manual/en/customize-erpnext)
 1. [And More](https://erpnext.com/docs/user/manual/en/)
 
-DreamWork is built on the [Ivyngton Framework](https://github.com/frappe/frappe), a full-stack web app framework built with Python & JavaScript.
+DreamWork is built on the [Frappe Framework](https://github.com/frappe/frappe), a full-stack web app framework built with Python & JavaScript.
 <!-- 
 ## Installation
 
